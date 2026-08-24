@@ -1,7 +1,7 @@
 {
     "lighting": "none",
     "matrix": {
-        "rows": 4,
+        "rows": 5,
         "cols": 12
               },
     "layouts": {
